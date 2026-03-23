@@ -66,7 +66,7 @@ SignLanguageDetectionUsingML/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/SignLanguageDetectionUsingML.git
+git clone https://github.com/vasudev1876961/SignLanguageDetectionUsingML.git
 cd SignLanguageDetectionUsingML
 ```
 
